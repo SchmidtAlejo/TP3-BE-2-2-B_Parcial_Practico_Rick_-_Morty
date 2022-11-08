@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreference
+        android:defaultValue="false"
+        android:key="nightMode"
+        android:title="Night mode" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="browserEnabled"
+        android:title="Browser enabled" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="addFavoriteButtonEnabled"
+        android:title="Favorite button enabled" />
+</PreferenceScreen>

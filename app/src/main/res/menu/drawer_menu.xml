@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/favoritesFragment"
+        android:title="@string/favorites"/>
+    <item
+        android:id="@+id/settingsActivity"
+        android:title="@string/settings"/>
+    <item
+        android:id="@+id/signOutFragment"
+        android:title="@string/log_out"/>
+</menu>
